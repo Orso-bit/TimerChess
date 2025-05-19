@@ -18,6 +18,8 @@ TimerChess is an iOS app developed with Xcode, designed to help chess players tr
 
 ## Installation
 
-1. Clone this repository: `git clone <https://github.com/Orso-bit/TimerChess.git`>
-2. Open the project in Xcode
-3. Run the app on a simulator or connected device
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Orso-bit/TimerChess.git
+3. Open the project in Xcode
+4. Run the app on a simulator or connected device
